@@ -1,0 +1,24 @@
+{
+    "pools": [
+		{
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:player_head",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_name",
+							"name" : "Red-Collared Wolf Head"
+						},
+						{
+                            "function": "set_nbt",
+                            "tag": "{SkullOwner:{Id:\"6570ec03-c211-483a-ba13-3a0a70047357\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTRlNmM1Y2I2Y2M1Mzk4NDg3ODY2ZTA3MzUyOGNkMDMyN2JhNmNjNTdkMTYxNTEzMWI0ZWY5NWUzNWQ2NzJkIn19fQ==\"}]}}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

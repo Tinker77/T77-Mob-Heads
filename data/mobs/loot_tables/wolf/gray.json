@@ -1,0 +1,24 @@
+{
+    "pools": [
+		{
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:player_head",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_name",
+							"name" : "Gray-Collared Wolf Head"
+						},
+						{
+                            "function": "set_nbt",
+                            "tag": "{display:{LocName:\"Gray-Collared Wolf Head\"},SkullOwner:{Id:\"3e5aa23d-82c7-4c99-99f4-1f56afbef53f\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZiMDYwNTYyM2VhOWJjOTliYWE2YzkwZTg1NmZhZmM0N2NiN2Y1MDE1ZTE2ZWMyMTYxMTMyN2EyNzAzNjdjIn19fQ==\"}]}}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
