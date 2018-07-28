@@ -1,4 +1,4 @@
-# T77 Mob Heads 1.13 Data Pack
+# T77 Mob Heads Data pack
 Created by Tinker77
 
 Look for Tinker77 on [YouTube](http://youtube.com/tinker77) and on [Twitch](http://twitch.tv/tinker77live)! 
@@ -156,3 +156,8 @@ You can find a video on how to install this data pack on [YouTube](http://youtub
 121. Zombie Villager, Librarian
 122. Zombie Villager, Nitwit
 123. Zombie Villager, Smith
+
+## Thanks
+First, I want to thank the members of the Tinker's Union for helping with creating this pack.  Also I would like to thank Xisuma and his team for creating the mob heads used in 1.12.  Their work was used as a basis for this pack.  
+
+And Xisuma, if you're out there and get wind of this pack, I would be honored to hear from you.  :)
