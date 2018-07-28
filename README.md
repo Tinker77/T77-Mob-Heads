@@ -30,7 +30,7 @@ You should see the following message displayed if the data pack installed correc
 > http://youtube.com/tinker77
 
 ### Tutorial Video
-You can find a video on how to install this data pack on [YouTube](http://youtube.com/tinker77).
+You can find a video on how to install this data pack on [YouTube](https://youtu.be/oYDoGYRwEPs).
 
 ## Mob Heads Included In This Pack
 1. Bat
